@@ -1,0 +1,29 @@
+{
+  "name": "fis-parser-cson",
+  "description": "编译cson为json",
+  "main": "index.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "cson": "^3.0.2"
+  },
+  "scripts": {
+    "test": "uz -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gavinning/fis-parser-cson.git"
+  },
+  "keywords": [
+    "uz",
+    "fis",
+    "fis cson",
+    "fis parser cson",
+    "fis-parser-cson"
+  ],
+  "author": "gavinning",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/gavinning/fis-parser-cson/issues"
+  },
+  "homepage": "https://github.com/gavinning/fis-parser-cson"
+}
